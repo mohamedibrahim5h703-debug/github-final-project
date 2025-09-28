@@ -28,3 +28,9 @@ Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can help.
 ## 📄 License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+تحديث تذييل ملف README.md
+---
+
+**تم التحديث بواسطة:** محمد إبراهيم  
+**تاريخ التحديث:** سبتمبر 2025  
+
