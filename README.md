@@ -34,3 +34,4 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 **تم التحديث بواسطة:** محمد إبراهيم  
 **تاريخ التحديث:** سبتمبر 2025  
 
+2023 XYZ, Inc.
